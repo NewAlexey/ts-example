@@ -1,4 +1,4 @@
-// enum HTTPMethods {
-//   'GET' = 'GET',
-//   'POST' = 'POST',
-// }
+export enum HTTPMethodsEnum {
+  'GET' = 'GET',
+  'POST' = 'POST',
+}
