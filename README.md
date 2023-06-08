@@ -1,2 +1,1 @@
-# ts-example
-Typescript example
+Typescript explanation.
